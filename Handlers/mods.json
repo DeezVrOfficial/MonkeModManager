@@ -1,12 +1,12 @@
 [
   {
-    "ModName": "Fortnite Emote Wheel",
-    "URL": "https://github.com/DeezVrOfficial/FortniteEmoteWheel/releases/latest/download/FortniteEmoteWheel.dll",
+    "ModName": "FortniteEmoteWheel",
+    "URL": "https://github.com/DeezVrOfficial/FortniteEmoteWheel/releases/download/1.3.8/FortniteEmoteWheel.dll",
     "Version": "1.3.8"
   },
   {
     "ModName": "Gorilla Stats",
-    "URL": "https://github.com/arielthemonke/GorillaStats/releases/latest/download/GorillaStats.dll",
+    "URL": "https://github.com/arielthemonke/GorillaStats/releases/download/v1.1.0/GorillaStats.dll",
     "Version": "1.1.0"
   }
 ]
